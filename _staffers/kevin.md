@@ -1,11 +1,10 @@
 ---
-name: Kevin Lin
+name: Xinchen Yu
 role: Instructor
-email: me@example.com
+email: xinchenyu@arizona.edu
 website: https://kevinl.info
-photo: kevin.jpg
+photo: xinchen.jpg
 meta:
   Office Hours: Somewhere on the internet
 ---
 
-[Schedule an appointment](#){: .btn .btn-outline }

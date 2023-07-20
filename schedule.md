@@ -12,8 +12,8 @@ Slides credit: heavily built on Profs. Jason Pacheco and Kwang-Sung Jun’s CSC 
 
 | Dates         | Topics                                   | Homework  | Notes                    |
 |:-------------:|:----------------------------------------:|:---------:|:------------------------:|
-|Aug 21-25      | Course Overview <br /> Probability 1     |                          |
-|Aug 28-Sep 1   | Probability 2   <br /> Probability 3     |                         |
+|[Aug 21-25]({{ site.baseurl }}{% link lectures/week-01.md %})| Course Overview <br /> Probability 1     |                          |
+|Aug 28-Sep 1   | Probability 2   <br /> Probability 3     |[HW1 released]({{ site.baseurl }}{% link homeworks/hw-01.md %})     |
 |Sep 4-8        | Probability 4                            |                       |
 |Sep 11-15      | Probability 5   <br /> Probability 6     |                         |
 |Sep 18-22      | Statistics 1    <br /> Statistics 2      |                       |
