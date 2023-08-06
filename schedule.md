@@ -24,7 +24,7 @@ Slides credit: heavily built on Profs. Jason Pacheco and Kwang-Sung Jun’s CSC 
 |Oct 16-20     | Data processing and visualization 3   <br /> Basics of predictive modeling and classification 1 |                        |
 |Oct 23-27     | Basics of predictive modeling and classification 2   <br /> Basics of predictive modeling and classification 3 |                        |
 |Oct 30-Nov 3  | Linear models 1   <br /> Linear models 2 |                        |
-|Nov 6-10      | Linear models 3   <br /> Nonlinear models 1  |                        |
+|[Nov 6-10]({{ site.baseurl }}{% link lectures/week-13.md %})      | Linear models 3   <br /> Nonlinear models 1  |                        |
 |Nov 13-17      | Nonlinear models 2   <br /> Nonlinear models 3  |                        |
 |Nov 20-24      | Clustering 1  |                        |
 |Nov 28-Dec 1   | Clustering 2  <br />  Data science ethics                     |

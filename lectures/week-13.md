@@ -1,7 +1,7 @@
 ---
 layout: module
-title: Week 1 - Overview and Design Principles
-permalink: /modules/week1
+title: Week 13 - Linear Models 3 & Nonlinear Models 1
+permalink: /modules/week13
 parent: Modules
 nav_order: 1
 ---
