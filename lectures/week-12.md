@@ -13,10 +13,8 @@ nav_order: 1
 * Regularized Least Squares
 
 ### Lessons:
-* 12.1 Linear Models 2
-    * PDF
-* 12.2 Linear Models 3
-    * PDF
+* Linear Models 
+    * [PDF]({{ site.url }}/assets/slides/23f380_linearmodels.pdf)
 
 
 ### Additional Readings:
