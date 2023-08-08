@@ -1,30 +1,25 @@
 ---
 layout: module
-title: Week 13 - Linear Models 3 & Nonlinear Models 1
+title: Week 13 - Nonlinear Models 2 & 3
 permalink: /modules/week13
 parent: Modules
-nav_order: 1
+nav_order: 13
 ---
 
 ### Learning Objectives:
-* Logistic Regression
-* Basis Functions
-* Support Vector Machine (hard margin)
+* Support Vector Machine (soft margin)
+* Kernels
+* Neural Networks
 
 ### Lessons:
-* 13.1 Linear Models 3
-    * PDF
-* 13.2 Nonlinear Models 1
-    * PDF
+* Nonlinear Models [Slides](https://xinchenyu.github.io/csc380-fall23/Slides/23f380_nonlinearmodels.pdf)
 
 ### Important Dates:
 * HW6 **Due Nov 15 by 10pm**{: .label .label-red }
 
-
 ### Additional Readings:
-* Linear Models 3: ISL (sec. 4.3.1 - 4.3.3) 
-* Nonlinear Models 1: ISL (sec. 7.1 - 7.3)
+* Nonlinear Models 2: ISL (sec. 7.1 - 7.3)
+* Nonlinear Models 3: ISL (sec. 10.1 - 10.7)
 
 ### Resources
-* [Likelihood function for logistic regression](https://www.stat.cmu.edu/~cshalizi/uADA/12/lectures/ch12.pdf)
-* [Cross-Entropy loss function and Bernoulli Distribution MLE](https://towardsdatascience.com/where-did-the-binary-cross-entropy-loss-function-come-from-ac3de349a715)
+* [The math behind Kernel](https://www.youtube.com/watch?v=wBVSbVktLIY)
