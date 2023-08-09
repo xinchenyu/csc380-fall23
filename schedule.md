@@ -21,7 +21,7 @@ Slides credit: heavily built on Profs. Jason Pacheco and Kwang-Sung Jun’s CSC 
 |Oct 2-6       | Data processing and visualization 1   <br />  Midterm review     |HW4 Out                         |
 |Oct 9-13      | Data processing and visualization 2     |                      |
 |Oct 12      |  **Midterm**{: .label .label-red }      |                        |
-|Oct 16-20     | Data processing and visualization 3   <br /> Basics of predictive modeling and classification 1 |                        |
+|[Oct 16-20]({{ site.baseurl }}{% link lectures/week-9.md %})     | Data processing and visualization 3   <br /> Basics of predictive modeling and classification 1 |                        |
 |[Oct 23-27]({{ site.baseurl }}{% link lectures/week-10.md %})       | Basics of predictive modeling and classification 2   <br /> Basics of predictive modeling and classification 3 | HW5 Out                       |
 |[Oct 30-Nov 3]({{ site.baseurl }}{% link lectures/week-11.md %})  | Linear models 1   <br /> Linear models 2 |                        |
 |[Nov 6-10]({{ site.baseurl }}{% link lectures/week-12.md %})      | Linear models 3   <br /> Nonlinear models 1  |HW6 Out                        |
