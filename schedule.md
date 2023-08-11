@@ -16,17 +16,17 @@ Slides credit: heavily built on Profs. Jason Pacheco and Kwang-Sung Jun’s CSC 
 |Aug 28-Sep 1   | Probability 2   <br /> Probability 3     |HW1 Out    |
 |Sep 4-8        | Probability 4                            |                       |
 |Sep 11-15      | Probability 5   <br /> Probability 6     |HW2 Out                         |
-|Sep 18-22      | Statistics 1    <br /> Statistics 2      |HW3 Out                       |
-|Sep 25-29      | Statistics 3    <br />  Statistics 4     |                      |
+|[Sep 18-22]({{ site.baseurl }}{% link lectures/week-5.md %})      | Statistics 1    <br /> Statistics 2      |HW3 Out                       |
+|[Sep 25-29]({{ site.baseurl }}{% link lectures/week-6.md %})       | Statistics 3    <br />  Statistics 4     |                      |
 |Oct 2-6       | Data processing and visualization 1   <br />  Midterm review     |HW4 Out                         |
 |Oct 9-13      | Data processing and visualization 2     |                      |
 |Oct 12      |  **Midterm**{: .label .label-red }      |                        |
-|[Oct 16-20]({{ site.baseurl }}{% link lectures/week-9.md %})     | Data processing and visualization 3   <br /> Basics of predictive modeling and classification 1 |                        |
-|[Oct 23-27]({{ site.baseurl }}{% link lectures/week-10.md %})       | Basics of predictive modeling and classification 2   <br /> Basics of predictive modeling and classification 3 | HW5 Out                       |
-|[Oct 30-Nov 3]({{ site.baseurl }}{% link lectures/week-11.md %})  | Linear models 1   <br /> Linear models 2 |                        |
-|[Nov 6-10]({{ site.baseurl }}{% link lectures/week-12.md %})      | Linear models 3   <br /> Nonlinear models 1  |HW6 Out                        |
-|[Nov 13-17]({{ site.baseurl }}{% link lectures/week-13.md %})      | Nonlinear models 2   <br /> Nonlinear models 3  |Final project Out                        |
-|Nov 20-24      | Clustering 1  |    HW7 Out                    |
+|[Oct 16-20]({{ site.baseurl }}{% link lectures/week-9.md %})     | Data processing and visualization 3   <br /> Basics of predictive modeling and classification 1 | HW5 Out                       |
+|[Oct 23-27]({{ site.baseurl }}{% link lectures/week-10.md %})       | Basics of predictive modeling and classification 2   <br /> Basics of predictive modeling and classification 3 |                        |
+|[Oct 30-Nov 3]({{ site.baseurl }}{% link lectures/week-11.md %})  | Linear models 1   <br /> Linear models 2 |HW6 Out                        |
+|[Nov 6-10]({{ site.baseurl }}{% link lectures/week-12.md %})      | Linear models 3   <br /> Nonlinear models 1  |                        |
+|[Nov 13-17]({{ site.baseurl }}{% link lectures/week-13.md %})      | Nonlinear models 2   <br /> Nonlinear models 3  |   HW7 Out  <br />  Final project Out                 |
+|Nov 20-24      | Clustering 1  |                      |
 |Nov 28-Dec 1   | Clustering 2  <br />  Course wrap-up 1                    |
 |Dec 4-9   | Course wrap-up  2                     |   |
 |Dec 13   | **Final exam**{: .label .label-red }                  |   |
