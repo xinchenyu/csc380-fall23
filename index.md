@@ -22,10 +22,10 @@ The course has three main components: data analysis, machine learning, and a pro
 ## Logistics info
 
 Time and venue: Tuesday and Thursday 3:30-4:45pm
--  [Syllabus]()
--  [Piazza link]() Access code: 
--  [Gradescope]() Entry code:  (NB: Please make sure your gradescope email address is the same as the one you have on D2L.)
--  D2L course webpage](): lecture video recordings will be at "UA Tools" -> "Zoom" (NB: Zoom links are for **recordings only** and are not for live-streaming lectures.)
+-  [Syllabus](https://xinchenyu.github.io/csc380-fall23/Syllabus/syllabus.pdf)
+-  [Piazza link](https://piazza.com/arizona/fall2023/csc380) Access code: wildcats
+-  [Gradescope](https://www.gradescope.com/courses/567943) Entry code: ZZNJEN  (NB: Please make sure your gradescope email address is the same as the one you have on D2L.)
+-  [D2L course webpage](https://d2l.arizona.edu/d2l/home/1325412): lecture video recordings will be at "UA Tools" -> "Zoom" (NB: Zoom links are for **recordings only** and are not for live-streaming lectures.)
 
 
 We will be using Piazza to make important announcements and do Q&As. Some general rules:
@@ -35,7 +35,15 @@ We will be using Piazza to make important announcements and do Q&As. Some genera
   This will help facilitate our processings of your requests significantly.
 
 ## Course staff
-Xinchen Yu
+* Instructor: Xinchen Yu
+* Teaching assistants: Shahriar Golchin, Hui Ni, Saiful Salim 
+
+Office hours:
+* Xinchen Yu: Wednesday 11:00am-12:00pm, Gould-Simpson 854
+* Shahriar Golchin: 
+* Hui Ni:
+* Saiful Salim:
+
 
 ## Textbook
 
@@ -46,6 +54,8 @@ There is no single designated textbook for this course. Much of the course mater
 -  [MK: Murphy, K. "Machine Learning: A Probabilistic Perspective." MIT press, 2012](https://arizona-primo.hosted.exlibrisgroup.com/permalink/f/6ljalh/01UA_ALMA51543591360003843) (accessible online via UA library)
 
 -  [WL: Wasserman, L. "All of Statistics: A Concise Course in Statistical Inference." Springer, 2004](https://link.springer.com/book/10.1007/978-0-387-21736-9) (accessible online via UA library)
+
+- [ISL: James, G., Witten, D., Hastie, T., & Tibshirani, R. An introduction to statistical learning with Applications in Python. New York: Springer](https://www.statlearning.com/)
 
 
 ## Other useful resources

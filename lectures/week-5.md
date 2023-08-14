@@ -19,8 +19,11 @@ nav_order: 5
 
 
 ### Additional Readings:
-* Statistics 1: WL (Sec. 9.1, 9.2, Sec 6.3)
-* Statistics 2: WJ (14.1-14.4, 15.1-15.2)
+* Statistics 1
+    * WL: Sec. 9.1-9.2, Sec 6.3
+    * WJ: Ch. 12
+* Statistics 2
+    * WJ: 14.1-14.4, 15.1-15.2
 
 ### Resources
 * [Proof: Bias of Sample Variance](https://proofwiki.org/wiki/Bias_of_Sample_Variance)

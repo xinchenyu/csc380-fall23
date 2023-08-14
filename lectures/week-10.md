@@ -16,8 +16,10 @@ nav_order: 10
 
 
 ### Additional Readings:
-* Basics of predictive modeling and classification 2: MK (sec 1.4)
-* Basics of predictive modeling and classification 3: MK (sec 3.5)
+* Basics of predictive modeling and classification 2
+    * MK: sec 1.4
+* Basics of predictive modeling and classification 3
+    * MK: sec 3.5
 
 ### Resources
 * [Probability Review before understanding Naive Bayes](https://medium.com/@akshayc123/prerequisite-for-naive-bayes-classifier-c9a919ef88c6)

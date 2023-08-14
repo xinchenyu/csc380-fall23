@@ -17,8 +17,10 @@ nav_order: 11
 
 
 ### Additional Readings:
-* Linear Models 1: MK (sec. 7.1-7.3)  
-* Linear Models 2: ISL (sec. 6.1 and sec. 6.2)
+* Linear Models 1
+    *  MK: sec. 7.1-7.3, 7.5-7.6
+* Linear Models 2 
+    * ISL sec. 6.1-6.2
 
 ### Resources
 * [Proof: Ordinary least square](https://en.wikipedia.org/wiki/Proofs_involving_ordinary_least_squares) 

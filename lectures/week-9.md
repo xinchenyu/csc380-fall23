@@ -12,11 +12,11 @@ nav_order: 9
 * Naive Bayes Classifier
 
 ### Lessons:
-* 
 * Basics of predictive modeling and classification [Slides](https://xinchenyu.github.io/csc380-fall23/Slides/23f380_predictivemodels.pdf)
 
 
 ### Additional Readings:
-* Basics of predictive modeling and classification 1: MK (sec 16.2.1-16.2.4)
+* Basics of predictive modeling and classification 1
+    * MK: sec 16.2.1-16.2.4
 
 ### Resources

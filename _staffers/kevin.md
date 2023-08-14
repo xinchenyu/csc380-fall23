@@ -2,9 +2,9 @@
 name: Xinchen Yu
 role: Instructor
 email: xinchenyu@arizona.edu
-website: https://kevinl.info
+website: https://xinchenyu.github.io
 photo: xinchen.jpg
 meta:
-  Office Hours: Somewhere on the internet
+  Office Hours: Wednesday 11:00am-12:00pm, Gould-Simpson 854
 ---
 
