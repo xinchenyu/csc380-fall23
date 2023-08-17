@@ -17,6 +17,7 @@ nav_order: 9
 
 ### Additional Readings:
 * Basics of predictive modeling and classification 1
-    * MK: sec 16.2.1-16.2.4
+    * MK: sec 1.1-1.3
+    
 
 ### Resources
