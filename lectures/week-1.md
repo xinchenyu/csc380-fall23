@@ -7,6 +7,7 @@ nav_order: 1
 ---
 
 ### Learning Objectives:
+* Random events
 * Axioms of Probability
 * Set Theory
 * Law of Total Probability 
@@ -14,7 +15,8 @@ nav_order: 1
 
 
 ### Lessons:
-*  Probability [Slides]()
+* Course overview [Slides]()
+* Probability [Slides]()
 
 
 ### Additional Readings:

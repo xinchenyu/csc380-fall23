@@ -1,9 +1,8 @@
 ---
-name: Evil Kevin
+name: Shahriar Golchin
 role: Teaching Assistant
-email: me@example.com
-website: https://kevinl.info
-photo: kevin.jpg
+email: golchin@arizona.edu
+website: 
+photo: shahriar.png
 ---
 
-I like teaching Computer Science!

@@ -1,9 +1,8 @@
 ---
-name: More Evil Kevin
+name: Hui Ni
 role: Teaching Assistant
-email: me@example.com
-website: https://kevinl.info
-photo: kevin.jpg
+email: huini@arizona.edu
+website: 
+photo: hui.jpg
 ---
 
-I like teaching Computer Science!
