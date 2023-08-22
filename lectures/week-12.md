@@ -12,8 +12,8 @@ nav_order: 12
 * Support Vector Machine (hard margin)
 
 ### Lessons:
-* Linear Models [Slides](https://xinchenyu.github.io/csc380-fall23/Slides/23f380_linearmodels.pdf)
-* Nonlinear Models [Slides](https://xinchenyu.github.io/csc380-fall23/Slides/23f380_nonlinearmodels.pdf)
+* Linear Models [Slides]()
+* Nonlinear Models [Slides]()
 
 ### Important Dates:
 * HW6 **Due Nov 15 by 10pm**{: .label .label-red }
