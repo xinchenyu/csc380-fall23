@@ -13,7 +13,7 @@ nav_order: 3
 
 
 ### Lessons:
-*  Probability [Slides]()
+*  Probability 
 
 
 ### Additional Readings:

@@ -8,14 +8,14 @@ nav_order: 4
 
 ### Learning Objectives:
 * Expectation
-* Variance
+* Variances
 * Covariance
 * Independence and Moments 
 
 
 
 ### Lessons:
-*  Probability [Slides]()
+*  Probability 
 
 
 ### Additional Readings:

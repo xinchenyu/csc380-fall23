@@ -10,7 +10,7 @@ nav_order: 16
 * 
 
 ### Lessons:
-* Course Wrap-Up [Slides]()
+* Course Wrap-Up 
 
 
 ### Important Dates:

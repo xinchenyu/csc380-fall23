@@ -10,7 +10,7 @@ nav_order: 15
 * 
 
 ### Lessons:
-* Clustering [Slides]()
+* Clustering 
 
 
 

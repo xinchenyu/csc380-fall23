@@ -12,8 +12,8 @@ nav_order: 12
 * Support Vector Machine (hard margin)
 
 ### Lessons:
-* Linear Models [Slides]()
-* Nonlinear Models [Slides]()
+* Linear Models 
+* Nonlinear Models 
 
 ### Important Dates:
 * HW6 **Due Nov 15 by 10pm**{: .label .label-red }

@@ -13,7 +13,7 @@ nav_order: 6
 * Hypothesis Testing
 
 ### Lessons:
-* Statistics [Slides]()
+* Statistics 
 
 ### Additional Readings:
 * Statistics 3

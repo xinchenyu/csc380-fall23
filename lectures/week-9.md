@@ -12,7 +12,7 @@ nav_order: 9
 * Naive Bayes Classifier
 
 ### Lessons:
-* Basics of predictive modeling and classification [Slides]()
+* Basics of predictive modeling and classification 
 
 
 ### Additional Readings:

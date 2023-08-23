@@ -15,7 +15,7 @@ nav_order: 5
 
 
 ### Lessons:
-*  Statistics [Slides]()
+*  Statistics
 
 
 ### Additional Readings:

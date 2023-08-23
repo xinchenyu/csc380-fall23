@@ -10,7 +10,7 @@ nav_order: 7
 
 
 ### Lessons:
-* Data processing and visualization [Slides]()
+* Data processing and visualization 
 
 ### Important Dates:
 * Midterm **Thursday, Oct 12**{: .label .label-red }

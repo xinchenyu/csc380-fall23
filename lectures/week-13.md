@@ -12,7 +12,7 @@ nav_order: 13
 * Neural Networks
 
 ### Lessons:
-* Nonlinear Models [Slides]()
+* Nonlinear Models 
 
 ### Important Dates:
 * HW6 **Due Nov 15 by 10pm**{: .label .label-red }
