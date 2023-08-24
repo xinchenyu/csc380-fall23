@@ -16,7 +16,7 @@ nav_order: 1
 
 ### Lessons:
 * Course overview [Slides](https://xinchenyu.github.io/csc380-fall23/Slides/23f380_intro.pdf)
-* Probability 
+* Probability [Slides](https://xinchenyu.github.io/csc380-fall23/Slides/23f380_probability_lecture1.pdf)
 
 
 ### Additional Readings:
