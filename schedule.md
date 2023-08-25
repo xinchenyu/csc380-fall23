@@ -13,8 +13,8 @@ Slides credit: heavily built on Profs. Jason Pacheco and Kwang-Sung Jun’s CSC 
 | Dates         | Topics                                   | Homework  | Notes                    |
 |:-------------:|:----------------------------------------:|:---------:|:------------------------:|
 |[Aug 22 <br /> Aug 24]({{ site.baseurl }}{% link lectures/week-1.md %})| Course Overview <br /> Probability 1     |                          |
-|[Aug 29 <br />  Aug 31]({{ site.baseurl }}{% link lectures/week-2.md %})  | Probability 2   <br /> Probability 3     |HW1 Out <br/><br/>   |
-| [Sep 7]({{ site.baseurl }}{% link lectures/week-3.md %})  |  Probability 4                            |                       |
+|[Aug 29 <br />  Aug 31]({{ site.baseurl }}{% link lectures/week-2.md %})  | Probability 2   <br /> Probability 3     |HW1 Out <br/><br/>   | 
+| [Sep 7]({{ site.baseurl }}{% link lectures/week-3.md %})  |  Probability 4                            |                       |HW1 Due**Sep 6**{: .label .label-purple }
 |[Sep 12 <br /> Sep 14]({{ site.baseurl }}{% link lectures/week-4.md %})  | Probability 5   <br /> Probability 6     |HW2 Out  <br/><br/>        |
 |[Sep 19 <br /> Sep 21]({{ site.baseurl }}{% link lectures/week-5.md %})      | Statistics 1    <br /> Statistics 2      |<br/> HW3 Out                       |
 |[Sep 26 <br />  Sep 28]({{ site.baseurl }}{% link lectures/week-6.md %})       | Statistics 3    <br />  Statistics 4     |                      |
