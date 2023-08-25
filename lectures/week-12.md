@@ -22,6 +22,7 @@ nav_order: 12
 * Linear Models 3
     * ISL: sec. 4.3.1 - 4.3.3
 * Nonlinear Models 1
+    * MK: sec. 8.1-8.3
     * ISL: sec. 7.1 - 7.3
 
 ### Resources
