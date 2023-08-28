@@ -39,10 +39,10 @@ We will be using Piazza to make important announcements and do Q&As. Some genera
 * Teaching assistants: Shahriar Golchin, Hui Ni, Saiful Salim 
 
 Office hours:
-* Xinchen Yu: Thursday 2:00-3:00pm, Gould-Simpson 854
-* Shahriar Golchin: 
-* Hui Ni:
-* Saiful Salim:
+* Xinchen Yu: Tuesday 2:00pm-3:00pm, Gould-Simpson 854
+* Shahriar Golchin: Wednesday 10:00am-11:00am, [Zoom link](https://d2l.arizona.edu/d2l/le/news/1325412/2134511/view)
+* Hui Ni: Thursday 11:00am-12:00pm, Gould-Simpson 934
+* Saiful Salim: Monday 12:30pm-1:30pm, Gould-Simpson 934
 
 
 ## Textbook
