@@ -7,15 +7,18 @@ nav_order: 2
 ---
 
 ### Learning Objectives:
-* Conditional Probability
-* Independence
+* Conditional Probability 
+* Independence 
 * Random Variable and Probability
-* Discrete Probability
+* Discrete Probability 
 
 
 
 ### Lessons:
-*  Probability 
+*  Probability 2 [Slides](https://xinchenyu.github.io/csc380-fall23/Slides/23f380_probability_lecture2.pdf)
+
+### Important Dates:
+* Homework 1 out, due **Wednesday, Sep 6, 11:59pm**{: .label .label-red }
 
 
 ### Additional Readings:
