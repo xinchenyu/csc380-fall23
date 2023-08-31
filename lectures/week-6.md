@@ -1,6 +1,6 @@
 ---
 layout: module
-title: Week 6 - Statistics 3 & 4
+title: Week 6 - Statistics 4 & 5
 permalink: /modules/week6
 parent: Modules
 nav_order: 6
@@ -16,8 +16,6 @@ nav_order: 6
 * Statistics 
 
 ### Additional Readings:
-* Statistics 3
-    * WJ: sec 16.1-16.2
 * Statistics 4
     * WJ: sec 20.1-20.4
     * WL: sec 8.3

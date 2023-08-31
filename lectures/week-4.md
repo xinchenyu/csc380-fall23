@@ -1,16 +1,16 @@
 ---
 layout: module
-title: Week 4 - Probability 5 & 6
+title: Week 4 - Probability 6 & Statistics 1
 permalink: /modules/week4
 parent: Modules
 nav_order: 4
 ---
 
 ### Learning Objectives:
-* Expectation
-* Variances
 * Covariance
 * Independence and Moments 
+* Law of Large Numbers
+* Central Limit Theorem
 
 
 
@@ -19,7 +19,7 @@ nav_order: 4
 
 
 ### Additional Readings:
-* Probability 5
-    * WL: Ch. 3
-    * WJ: Ch. 8
+* Statistics 1
+    * WL: Sec. 9.1-9.2, Sec 6.3
+    * WJ: Ch. 12
 
