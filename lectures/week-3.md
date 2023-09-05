@@ -8,15 +8,17 @@ nav_order: 3
 
 ### Learning Objectives:
 * Continous Probability
-* Mass Functions
-* Density Functions
+* Probability Density Function
+* Probability Mass Function
 * Expectation
 * Variances
 
 
 ### Lessons:
-*  Probability 
+*  Probability 4 [Slides](https://xinchenyu.github.io/csc380-fall23/Slides/23f380_probability_lecture4.pdf)
 
+### Important Dates:
+* Homework 1 due **Wednesday, Sep 6, 11:59pm**{: .label .label-red }
 
 ### Additional Readings:
 * Probability 4
@@ -26,3 +28,6 @@ nav_order: 3
     * WL: Ch. 3
     * WJ: Ch. 8
 
+### Resources
+* [Integration and the fundamental theorem of calculus](https://www.youtube.com/watch?v=rfG8ce4nNh0&t=668s)
+* [Derivative as a concept](https://www.youtube.com/watch?v=N2PpRnFqnqY)
