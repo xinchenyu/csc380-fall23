@@ -11,14 +11,18 @@ nav_order: 3
 * Probability Density Function
 * Probability Mass Function
 * Expectation
-* Variances
+* Variance
+* Covariance
 
 
 ### Lessons:
 *  Probability 4 [Slides](https://xinchenyu.github.io/csc380-fall23/Slides/23f380_probability_lecture4.pdf)
+*  Probability 5 [Slides](https://xinchenyu.github.io/csc380-fall23/Slides/23f380_probability_lecture5.pdf)
 
 ### Important Dates:
 * Homework 1 due **Wednesday, Sep 6, 11:59pm**{: .label .label-red }
+* Homework 2 out, due **Friday, Sep 15, 11:59pm**{: .label .label-red }
+
 
 ### Additional Readings:
 * Probability 4

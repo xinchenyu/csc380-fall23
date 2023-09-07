@@ -7,15 +7,12 @@ nav_order: 1
 
 ## Tentative schedule
 
-Slides credit: heavily built on Profs. Jason Pacheco and Kwang-Sung Jun’s CSC 380 slides used in their previous offerings.
-
-
 | Dates         | Topics                                   | Homework  | Notes                    |
 |:-------------:|:----------------------------------------:|:---------:|:------------------------:|
 |[Aug 22 <br /> Aug 24]({{ site.baseurl }}{% link lectures/week-1.md %})| Course Overview <br /> Probability 1     |                          |
 |[Aug 29 <br />  Aug 31]({{ site.baseurl }}{% link lectures/week-2.md %})  | Probability 2   <br /> Probability 3     |[HW1 Out]({{ site.baseurl }}{% link homeworks/hw-01.md %}) <br/><br/>   | 
-| [Sep 5 <br /> Sep 7]({{ site.baseurl }}{% link lectures/week-3.md %})  |  Probability 4     <br />    Probability 5      |  <br/> HW2 Out           |HW1 Due**Sep 6**{: .label .label-purple }
-|[Sep 12 <br /> Sep 14]({{ site.baseurl }}{% link lectures/week-4.md %})  | Probability 6   <br /> Statistics 1     |        |
+| [Sep 5 <br /> Sep 7]({{ site.baseurl }}{% link lectures/week-3.md %})  |  Probability 4     <br />    Probability 5      |  <br/> [HW2 Out]({{ site.baseurl }}{% link homeworks/hw-02.md %})           |HW1 Due**Sep 6**{: .label .label-purple }
+|[Sep 12 <br /> Sep 14]({{ site.baseurl }}{% link lectures/week-4.md %})  | Probability 6   <br /> Statistics 1     |        |HW2 Due**Sep 15**{: .label .label-purple }
 |[Sep 19 <br /> Sep 21]({{ site.baseurl }}{% link lectures/week-5.md %})      | Statistics 2    <br /> Statistics 3      |HW3 Out  <br/><br/>                       |
 |[Sep 26 <br />  Sep 28]({{ site.baseurl }}{% link lectures/week-6.md %})       | Statistics 4    <br />  Statistics 5     |                      |
 |[Oct 3 <br /> Oct 5]({{ site.baseurl }}{% link lectures/week-7.md %})    | Data processing and visualization 1   <br />  Midterm review     |HW4 Out  <br/><br/>           |
