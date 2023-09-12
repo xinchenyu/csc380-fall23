@@ -7,16 +7,16 @@ nav_order: 4
 ---
 
 ### Learning Objectives:
-* Covariance
 * Independence and Moments 
 * Law of Large Numbers
 * Central Limit Theorem
 
 
-
 ### Lessons:
-*  Probability 
+*  Probability 6 [Slides](https://xinchenyu.github.io/csc380-fall23/Slides/23f380_probability_lecture6.pdf)
 
+### Important Dates:
+* Homework 2 due **Friday, Sep 15, 11:59pm**{: .label .label-red }
 
 ### Additional Readings:
 * Statistics 1
