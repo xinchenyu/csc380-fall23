@@ -10,10 +10,13 @@ nav_order: 4
 * Independence and Moments 
 * Law of Large Numbers
 * Central Limit Theorem
+* Parameter Estimation
+* Desirable Estimator Properties
 
 
 ### Lessons:
 *  Probability 6 [Slides](https://xinchenyu.github.io/csc380-fall23/Slides/23f380_probability_lecture6.pdf)
+*  Statistics 1 [Slides](https://xinchenyu.github.io/csc380-fall23/Slides/23f380_statistics_lecture1.pdf)
 
 ### Important Dates:
 * Homework 2 due **Friday, Sep 15, 11:59pm**{: .label .label-red }
