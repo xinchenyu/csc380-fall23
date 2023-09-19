@@ -7,13 +7,12 @@ nav_order: 5
 ---
 
 ### Learning Objectives:
-* Properties of Estimators
 * Maximum Likelihood Estimation
 
 
 
 ### Lessons:
-*  Statistics
+*  Statistics 2 [Slides](https://xinchenyu.github.io/csc380-fall23/Slides/23f380_statistics_lecture2.pdf)
 
 
 ### Additional Readings:
