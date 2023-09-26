@@ -7,13 +7,12 @@ nav_order: 6
 ---
 
 ### Learning Objectives:
-* Bias-Variance Tradeoff
 * Confidence Intervals
 * Bootstrap
-* Hypothesis Testing
+
 
 ### Lessons:
-* Statistics 
+*  Statistics 3 [Slides](https://xinchenyu.github.io/csc380-fall23/Slides/23f380_statistics_lecture4.pdf)
 
 ### Additional Readings:
 * Statistics 4
