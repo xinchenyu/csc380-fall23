@@ -41,7 +41,7 @@ We will be using Piazza to make important announcements and do Q&As. Some genera
 Office hours:
 * Xinchen Yu: Tuesday 2:00pm-3:00pm, Gould-Simpson 854
 * Shahriar Golchin: Wednesday 10:00am-11:00am, [Zoom link](https://d2l.arizona.edu/d2l/le/news/1325412/2134511/view)
-* Hui Ni: Thursday 11:00am-12:00pm, Gould-Simpson 934
+* Hui Ni: Thursday 12:45pm-13:45pm, Gould-Simpson 856
 * Saiful Salim: Monday 12:30pm-1:30pm, Gould-Simpson 934
 
 
