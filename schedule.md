@@ -15,8 +15,8 @@ nav_order: 1
 |[Sep 12 <br /> Sep 14]({{ site.baseurl }}{% link lectures/week-4.md %})  | Probability 6   <br /> Statistics 1     |        |HW2 Due**Sep 15**{: .label .label-purple }
 |[Sep 19 <br /> Sep 21]({{ site.baseurl }}{% link lectures/week-5.md %})      | Statistics 2    <br /> Statistics 3      |[HW3 Out]({{ site.baseurl }}{% link homeworks/hw-03.md %})   <br/><br/>                       |
 |[Sep 26 <br />  Sep 28]({{ site.baseurl }}{% link lectures/week-6.md %})       | Statistics 4    <br />  Statistics 5     |                  |HW3 Due**Sep 27**{: .label .label-purple }
-|[Oct 3 <br /> Oct 5]({{ site.baseurl }}{% link lectures/week-7.md %})    | Data processing and visualization 1   <br />  Midterm review     |HW4 Out  <br/><br/>           |
-|[Oct 10 <br /> Oct 12]({{ site.baseurl }}{% link lectures/week-8.md %})      | Data processing and visualization 2 <br /> **Midterm**{: .label .label-red }      |                      |
+|[Oct 3 <br /> Oct 5]({{ site.baseurl }}{% link lectures/week-7.md %})    | Data processing and visualization 1   <br />  Midterm review     |[HW4 Out]({{ site.baseurl }}{% link homeworks/hw-04.md %})   <br/><br/>                             |
+|[Oct 10 <br /> Oct 12]({{ site.baseurl }}{% link lectures/week-8.md %})      | Data processing and visualization 2 <br /> **Midterm**{: .label .label-red }      |                      | HW4 Due**Oct 15**{: .label .label-purple }
 |[Oct 17 <br /> Oct 19]({{ site.baseurl }}{% link lectures/week-9.md %})     | Data processing and visualization 3   <br /> Basics of predictive modeling and classification 1 | <br/> HW5 Out      |
 |[Oct 24  <br />  Oct 26]({{ site.baseurl }}{% link lectures/week-10.md %})       | Basics of predictive modeling and classification 2   <br /> Basics of predictive modeling and classification 3 |                        |
 |[Oct 31 <br /> Nov 2]({{ site.baseurl }}{% link lectures/week-11.md %})  | Linear models 1   <br /> Linear models 2 |<br/> HW6 Out                        |
