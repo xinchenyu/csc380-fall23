@@ -10,9 +10,11 @@ nav_order: 7
 * Pandas
 * Pie chart
 * Bar chart
+* Midterm review
 
 ### Lessons:
 * Data processing and visualization 1 [Slides](https://xinchenyu.github.io/csc380-fall23/Slides/23f380_data_lecture1.pdf)
+* Midterm review [Slides](https://xinchenyu.github.io/csc380-fall23/Slides/23f380_midterm_review.pdf)
 
 ### Important Dates:
 * Midterm **Thursday, Oct 12**{: .label .label-red }
