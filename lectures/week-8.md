@@ -10,10 +10,11 @@ nav_order: 8
 
 
 ### Lessons:
-* Data processing and visualization 
+* Data processing and visualization 2 [Slides](https://xinchenyu.github.io/csc380-fall23/Slides/23f380_data_lecture2.pdf)
 
 ### Important Dates:
 * Midterm **Thursday, Oct 12**{: .label .label-red }
+
 
 ### Additional Readings:
 * Data processing and visualization 2
