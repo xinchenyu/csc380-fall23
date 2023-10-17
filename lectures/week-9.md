@@ -7,12 +7,14 @@ nav_order: 9
 ---
 
 ### Learning Objectives:
-* KNN
+* Research Design
+* Data Collection and Sampling
+* Decision Tree
 * Cross Validation
 * Naive Bayes Classifier
 
 ### Lessons:
-* Basics of predictive modeling and classification 
+* Data processing and visualization 3 [Slides](https://xinchenyu.github.io/csc380-fall23/Slides/23f380_data_lecture3.pdf)
 
 
 ### Additional Readings:
@@ -20,4 +22,3 @@ nav_order: 9
     * MK: sec 1.1-1.3
     
 
-### Resources
