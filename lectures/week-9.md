@@ -10,12 +10,14 @@ nav_order: 9
 * Research Design
 * Data Collection and Sampling
 * Decision Tree
-* Cross Validation
-* Naive Bayes Classifier
+
 
 ### Lessons:
 * Data processing and visualization 3 [Slides](https://xinchenyu.github.io/csc380-fall23/Slides/23f380_data_lecture3.pdf)
+* Basics of predictive modeling and classification 1 [Slides](https://xinchenyu.github.io/csc380-fall23/Slides/23f380_predictive_lecture1.pdf)
 
+### Important Dates:
+* Homework 5 due **Friday, Oct 27, 11:59pm**{: .label .label-red }
 
 ### Additional Readings:
 * Basics of predictive modeling and classification 1
