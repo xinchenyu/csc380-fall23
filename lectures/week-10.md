@@ -13,6 +13,8 @@ nav_order: 10
 
 ### Lessons:
 * Basics of predictive modeling and classification 2 [Slides](https://xinchenyu.github.io/csc380-fall23/Slides/23f380_predictive_lecture2.pdf)
+* Basics of predictive modeling and classification 3 [Slides](https://xinchenyu.github.io/csc380-fall23/Slides/23f380_predictive_lecture3.pdf)
+
 
 
 
