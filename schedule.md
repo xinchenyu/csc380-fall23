@@ -19,8 +19,8 @@ nav_order: 1
 |[Oct 10 <br /> Oct 12]({{ site.baseurl }}{% link lectures/week-8.md %})      | Data processing and visualization 2 <br /> **Midterm**{: .label .label-red }      |                      | HW4 Due**Oct 15**{: .label .label-purple }
 |[Oct 17 <br /> Oct 19]({{ site.baseurl }}{% link lectures/week-9.md %})     | Data processing and visualization 3   <br /> Basics of predictive modeling and classification 1 | <br/> [HW5 Out]({{ site.baseurl }}{% link homeworks/hw-05.md %})      |
 |[Oct 24  <br />  Oct 26]({{ site.baseurl }}{% link lectures/week-10.md %})       | Basics of predictive modeling and classification 2   <br /> Basics of predictive modeling and classification 3 |                        |HW5 Due**Oct 27**{: .label .label-purple }
-|[Oct 31 <br /> Nov 2]({{ site.baseurl }}{% link lectures/week-11.md %})  | Linear models 1   <br /> Linear models 2 |<br/> HW6 Out                        |
-|[Nov 7 <br /> Nov 9]({{ site.baseurl }}{% link lectures/week-12.md %})      | Linear models 3   <br /> Linear models 4  |                        |
+|[Oct 31 <br /> Nov 2]({{ site.baseurl }}{% link lectures/week-11.md %})  | Linear models 1   <br /> Linear models 2 |<br/> [HW6 Out]({{ site.baseurl }}{% link homeworks/hw-06.md %})                         |
+|[Nov 7 <br /> Nov 9]({{ site.baseurl }}{% link lectures/week-12.md %})      | Linear models 3   <br /> Linear models 4  |                        |HW6 Due**Nov 10**{: .label .label-purple }
 |[Nov 14 <br /> Nov 16]({{ site.baseurl }}{% link lectures/week-13.md %})      | Nonlinear models 1   <br /> Nonlinear models 2  |   HW7 Out  <br />  Final project Out                 |
 |[Nov 21]({{ site.baseurl }}{% link lectures/week-14.md %})     | Clustering 1  |                      |
 |[Nov 28 <br /> Nov 30]({{ site.baseurl }}{% link lectures/week-15.md %})   | Clustering 2  <br />  Course wrap-up 1                    |
