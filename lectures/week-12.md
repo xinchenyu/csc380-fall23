@@ -7,15 +7,17 @@ nav_order: 12
 ---
 
 ### Learning Objectives:
+* Regularized Least Squares: LASSO
 * Feature Selection
 * Logistic Regression
 
 
 ### Lessons:
-* Linear Models 
+* Linear Models 3 [Slides](https://xinchenyu.github.io/csc380-fall23/Slides/23f380_linear_lecture3.pdf)
  
 
 ### Important Dates:
+* Homework 6 due **Friday, Nov 10, 11:59pm**{: .label .label-red }
 
 
 ### Additional Readings:
