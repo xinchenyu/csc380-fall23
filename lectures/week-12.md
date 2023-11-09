@@ -14,6 +14,7 @@ nav_order: 12
 
 ### Lessons:
 * Linear Models 3 [Slides](https://xinchenyu.github.io/csc380-fall23/Slides/23f380_linear_lecture3.pdf)
+* Linear Models 4 [Slides](https://xinchenyu.github.io/csc380-fall23/Slides/23f380_linear_lecture4.pdf)
  
 
 ### Important Dates:
