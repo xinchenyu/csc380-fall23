@@ -7,14 +7,15 @@ nav_order: 13
 ---
 
 ### Learning Objectives:
+* Basis Functions
 * Support Vector Machine 
-* Neural Networks
+
 
 ### Lessons:
-* Nonlinear Models 
+* Nonlinear Models 1 [Slides](https://xinchenyu.github.io/csc380-fall23/Slides/23f380_nonlinear_lecture1.pdf)
 
 ### Important Dates:
-* HW6 **Due Nov 15 by 10pm**{: .label .label-red }
+* HW7 due **Wednesday, Nov 22, 11:59pm**{: .label .label-red }
 
 ### Additional Readings:
 * Nonlinear Models 1
