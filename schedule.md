@@ -22,9 +22,9 @@ nav_order: 1
 |[Oct 31 <br /> Nov 2]({{ site.baseurl }}{% link lectures/week-11.md %})  | Linear models 1   <br /> Linear models 2 |<br/> [HW6 Out]({{ site.baseurl }}{% link homeworks/hw-06.md %})                         |
 |[Nov 7 <br /> Nov 9]({{ site.baseurl }}{% link lectures/week-12.md %})      | Linear models 3   <br /> Linear models 4  |                        |HW6 Due**Nov 10**{: .label .label-purple }
 |[Nov 14 <br /> Nov 16]({{ site.baseurl }}{% link lectures/week-13.md %})      | Nonlinear models 1   <br /> Nonlinear models 2  |   [HW7 Out]({{ site.baseurl }}{% link homeworks/hw-07.md %}) <br/><br/>                    |
-|[Nov 21]({{ site.baseurl }}{% link lectures/week-14.md %})     | Clustering 1  |Final project Out   <br />             |HW7 Due**Nov 22**{: .label .label-purple }
-|[Nov 28 <br /> Nov 30]({{ site.baseurl }}{% link lectures/week-15.md %})   | Clustering 2  <br />  Course wrap-up 1                    |
-|[Dec 5]({{ site.baseurl }}{% link lectures/week-16.md %})   | Course wrap-up  2                     |   |
+|[Nov 21]({{ site.baseurl }}{% link lectures/week-14.md %})     | Nonlinear models 3  |Final project Out   <br />             |HW7 Due**Nov 22**{: .label .label-purple }
+|[Nov 28 <br /> Nov 30]({{ site.baseurl }}{% link lectures/week-15.md %})   | Clustering  <br />  Course wrap-up 1                    |
+|[Dec 5]({{ site.baseurl }}{% link lectures/week-16.md %})   | Course wrap-up 2               |   |
 |Dec 13   | **Final exam**{: .label .label-red }                  |   |
 
 
