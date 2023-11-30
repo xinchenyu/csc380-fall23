@@ -11,6 +11,7 @@ nav_order: 15
 
 ### Lessons:
 * Clustering [Slides](https://xinchenyu.github.io/csc380-fall23/Slides/23f380_clustering_lecture1.pdf)
+* Course wrap-up 1 [Slides](https://xinchenyu.github.io/csc380-fall23/Slides/23f380_final_lecture1.pdf)
 
 
 ### Important Dates:
