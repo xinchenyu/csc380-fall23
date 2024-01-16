@@ -13,8 +13,8 @@ nav_order: 11
 * Regularized Least Squares
 
 ### Lessons:
-* Linear Models 1 [Slides](https://xinchenyu.github.io/csc380-fall23/Slides/23f380_linear_lecture1.pdf)
-* Linear Models 2 [Slides](https://xinchenyu.github.io/csc380-fall23/Slides/23f380_linear_lecture2.pdf)
+* Linear Models 1 [Slides]()
+* Linear Models 2 [Slides]()
 
 
 ### Additional Readings:

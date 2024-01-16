@@ -8,7 +8,7 @@ nav_order: 16
 
 
 ### Lessons:
-* Course wrap-up 2 [Slides](https://xinchenyu.github.io/csc380-fall23/Slides/23f380_final_lecture2.pdf)
+* Course wrap-up 2 [Slides]()
 
 
 ### Important Dates:

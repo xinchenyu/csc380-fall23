@@ -10,7 +10,7 @@ nav_order: 14
 * Neural Networks
 
 ### Lessons:
-* Nonlinear Models 3 [Slides](https://xinchenyu.github.io/csc380-fall23/Slides/23f380_nonlinear_lecture3.pdf)
+* Nonlinear Models 3 [Slides]()
 
 ### Important Dates:
 * HW7 due **Wednesday, Nov 22, 11:59pm**{: .label .label-red }

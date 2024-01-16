@@ -12,8 +12,8 @@ nav_order: 13
 
 
 ### Lessons:
-* Nonlinear Models 1 [Slides](https://xinchenyu.github.io/csc380-fall23/Slides/23f380_nonlinear_lecture1.pdf)
-* Nonlinear Models 2 [Slides](https://xinchenyu.github.io/csc380-fall23/Slides/23f380_nonlinear_lecture2.pdf)
+* Nonlinear Models 1 [Slides]()
+* Nonlinear Models 2 [Slides]()
 
 ### Important Dates:
 * HW7 due **Wednesday, Nov 22, 11:59pm**{: .label .label-red }

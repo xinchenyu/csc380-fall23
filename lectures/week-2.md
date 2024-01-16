@@ -15,8 +15,8 @@ nav_order: 2
 
 
 ### Lessons:
-*  Probability 2 [Slides](https://xinchenyu.github.io/csc380-fall23/Slides/23f380_probability_lecture2.pdf)
-*  Probability 3 [Slides](https://xinchenyu.github.io/csc380-fall23/Slides/23f380_probability_lecture3.pdf)
+*  Probability 2 [Slides]()
+*  Probability 3 [Slides]()
 
 
 ### Important Dates:

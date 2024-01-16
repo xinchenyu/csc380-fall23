@@ -16,8 +16,8 @@ nav_order: 5
 
 
 ### Lessons:
-*  Statistics 2 [Slides](https://xinchenyu.github.io/csc380-fall23/Slides/23f380_statistics_lecture2.pdf)
-*  Statistics 3 [Slides](https://xinchenyu.github.io/csc380-fall23/Slides/23f380_statistics_lecture3.pdf)
+*  Statistics 2 [Slides]()
+*  Statistics 3 [Slides]()
 
 
 ### Additional Readings:

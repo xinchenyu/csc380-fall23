@@ -12,8 +12,8 @@ nav_order: 6
 
 
 ### Lessons:
-*  Statistics 4 [Slides](https://xinchenyu.github.io/csc380-fall23/Slides/23f380_statistics_lecture4.pdf)
-*  Statistics 5 [Slides](https://xinchenyu.github.io/csc380-fall23/Slides/23f380_statistics_lecture5.pdf)
+*  Statistics 4 [Slides]()
+*  Statistics 5 [Slides]()
 
 ### Important Dates:
 * Midterm **Thursday, Oct 12, 3:30pm-4:45pm**{: .label .label-red }
